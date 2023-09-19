@@ -1,0 +1,10 @@
+#directory - папка где лежит файл excel который нужно загрузить. В папке должен лежать только 1 файл excel
+directory =
+#processed_directory - папка куда попадают обработанные файлы
+processed_directory=
+#sql_directory - папка со скриптами примененными к БД
+sql_directory=
+server =
+database =
+username =
+password =
